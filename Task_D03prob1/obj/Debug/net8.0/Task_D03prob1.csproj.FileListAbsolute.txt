@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\bin\Debug\net8.0\Task_D03prob1.exe
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\bin\Debug\net8.0\Task_D03prob1.deps.json
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\bin\Debug\net8.0\Task_D03prob1.runtimeconfig.json
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\bin\Debug\net8.0\Task_D03prob1.dll
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\bin\Debug\net8.0\Task_D03prob1.pdb
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.dll
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\refint\Task_D03prob1.dll
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.pdb
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\Task_D03prob1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Task_D03prob1\Task_D03prob1\obj\Debug\net8.0\ref\Task_D03prob1.dll
